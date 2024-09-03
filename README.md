@@ -1,6 +1,6 @@
 # 💫 About Me:
-                                       Hi 👋, I'm VINAY SANDULA<br>                      
-                            A passionate Data Enthusiastic from India.<br><br>
+                                       Hi 👋, I'm VINAY SANDULA
+                            A passionate Data Enthusiastic from India.
 🔭 I’m currently working on Sales & Marketing Analysis<br><br>
 
 🌱 I’m currently learning PLSQL, SQL, ADVANCE DAX<br><br>
