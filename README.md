@@ -1,32 +1,51 @@
-<h1 align="center">Hi 👋, I'm VINAY SANDULA</h1>
-<h3 align="center">A passionate Data Enthusiastic from India</h3>
+<h2 align="left">Hi 👋! My name is Vinay and I'm a Power BI Developer from India.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandulavinay&label=Profile%20views&color=0e75b6&style=flat" alt="sandulavinay" /> </p>
+###
 
-- 🔭 I’m currently working on **Sales & Marketing Analysis**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandulavinay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandulavinay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **PLSQL, SQL, ADVANCE DAX**
+###
 
-- 👯 I’m looking to collaborate on **Power BI**
+<img align="right" height="150" src="https://images.app.goo.gl/ZpiJBRaYPpgvwWBPA"  />
 
-- 🤝 I’m looking for help with **DAX**
+###
 
-- 💬 Ask me about **Power BI, SQL, PLSQL, Data Modeling, Data Visualization, Data Integration**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+</div>
 
-- 📫 How to reach me **sandulavinay@gmail.com**
+###
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGLGFA5vUM/OA8UMDAn_mgn9vJl_lKHSw/edit](https://www.canva.com/design/DAGLGFA5vUM/OA8UMDAn_mgn9vJl_lKHSw/edit)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandulavinay&show_icons=true&locale=en&layout=compact" alt="sandulavinay" /></p>
+<img src="https://raw.githubusercontent.com/sandulavinay/sandulavinay/output/snake.svg" alt="Snake animation" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandulavinay&show_icons=true&locale=en" alt="sandulavinay" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandulavinay&" alt="sandulavinay" /></p>
+<p align="left">Power BI</p>
+
+###
+
+<p align="left">DAX</p>
+
+###
+
+<p align="left">SQL</p>
+
+###
