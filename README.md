@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vinay Sandula</h1>
-<h3 align="center">A Data Enthusiastic from India</h3>
+<h1 align="center">Hi 👋, I'm VINAY SANDULA</h1>
+<h3 align="center">A passionate Data Enthusiastic from India</h3>
 
-- 🔭 I’m currently working on **Sales and marketing Analysis**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandulavinay&label=Profile%20views&color=0e75b6&style=flat" alt="sandulavinay" /> </p>
 
-- 🌱 I’m currently learning **PLSQL**
+- 🔭 I’m currently working on **Sales & Marketing Analysis**
 
-- 👯 I’m looking to collaborate on **Power BI project**
+- 🌱 I’m currently learning **PLSQL, SQL, ADVANCE DAX**
+
+- 👯 I’m looking to collaborate on **Power BI**
+
+- 🤝 I’m looking for help with **DAX**
+
+- 💬 Ask me about **Power BI, SQL, PLSQL, Data Modeling, Data Visualization, Data Integration**
 
 - 📫 How to reach me **sandulavinay@gmail.com**
 
@@ -13,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/vinay sandhula](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay sandhula" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
