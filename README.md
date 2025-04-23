@@ -7,7 +7,7 @@
 
 👯 I’m looking to collaborate on Power BI<br><br>
 
-🤝 I’m looking for help with DAX<br><br>
+🤝 I’m looking to help with DAX<br><br>
 
 💬 Ask me about Power BI, SQL, PLSQL, Data Modeling, Data Visualization, Data Integration<br><br>
 
