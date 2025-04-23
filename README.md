@@ -13,7 +13,7 @@
 
 📫 How to reach me sandulavinay@gmail.com<br><br>
 
-📄 Know about my experiences https://www.canva.com/design/DAGLGFA5vUM/OA8UMDAn_mgn9vJl_lKHSw/edit
+📄 Know about my experiences [(https://sandulavinayresume.my.canva.site/)]
 
 
 ## 🌐 Socials:
