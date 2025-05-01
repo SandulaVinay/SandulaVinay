@@ -313,35 +313,7 @@ When I'm not immersed in data, you might find me:
   </a>
 </div>
 
-name: GitHub Stats Update
 
-on:
-  schedule:
-    - cron: '0 0 * * 0'  # Run weekly on Sunday at midnight
-  workflow_dispatch:  # Allow manual triggering
-
-jobs:
-  update-readme:
-    name: Update GitHub Stats in README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      
-      - name: Generate GitHub Stats
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Commit and Push if Changed
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats" && git push)
-
-          <svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
   <rect width="800" height="400" fill="#0d1117" rx="10" ry="10"/>
   
