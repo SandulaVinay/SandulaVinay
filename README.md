@@ -325,7 +325,7 @@ When I'm not immersed in data, you might find me:
   <line x1="100" y1="350" x2="100" y2="100" stroke="#30363d" stroke-width="2"/>
   
   <!-- X Axis Labels -->
---  <text x="100" y="380" font-family="Arial" font-size="14" fill="#8b949e" text-anchor="middle">2021</text>
+<!-->  <text x="100" y="380" font-family="Arial" font-size="14" fill="#8b949e" text-anchor="middle">2021</text>
   <text x="230" y="380" font-family="Arial" font-size="14" fill="#8b949e" text-anchor="middle">2022</text>
   <text x="360" y="380" font-family="Arial" font-size="14" fill="#8b949e" text-anchor="middle">2023</text>
   <text x="490" y="380" font-family="Arial" font-size="14" fill="#8b949e" text-anchor="middle">2024</text>
