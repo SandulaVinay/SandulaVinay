@@ -35,7 +35,7 @@
       <br>Excel
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/373671/powerbi.svg" width="48" height="48" alt="Power BI" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
   </tr>
@@ -49,19 +49,19 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354012/gitlab.svg" width="48" height="48" alt="GitLab" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/353380/azure.svg" width="48" height="48" alt="Azure" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
       <br>Azure
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354313/scala.svg" width="48" height="48" alt="Scala" />
-      <br>Scala
+      <img src="https://avatars.githubusercontent.com/u/29489810?s=200&v=4" width="48" height="48" alt="Tabular Editor" />
+      <br>Tabular Editor
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/374071/powershell.svg" width="48" height="48" alt="PowerShell" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
       <br>PowerShell
     </td>
   </tr>
@@ -78,10 +78,12 @@
 ### Tools & Technologies  
 
 - **Power BI**: DAX, M Language, Advanced Visualizations, Row-Level Security, Composite Models
+- **Tabular Editor**: Model Optimization, Advanced DAX Development, Calculation Groups, Automated Deployments
 - **SQL**: Complex Joins, Window Functions, CTEs, Stored Procedures, Performance Tuning
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Streamlit
 - **Version Control**: Git, GitHub Actions, CI/CD for Data Projects
 - **Collaboration**: Agile Methodology, JIRA, Confluence
+
 
 ## 🚀 Featured Projects
 
